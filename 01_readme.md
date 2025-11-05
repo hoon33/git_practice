@@ -18,3 +18,18 @@ git branch -M main
 git remote add origin https://github.com/lim-dongsun/git_practice.git
 git push -u origin main
 ```
+
+OR
+
+```shell
+mkdir git_practice
+cd git_practice
+git clone https://github.com/lim-dongsun/git_practice.git .
+```
+
+
+
+## Personal access tokens (classic)
+
+![001](/Users/1004790/workspace/git_practice/image/001.png)
+
